@@ -1,3 +1,4 @@
+#n dice roll sample space
 def foo(n, rolls=[], roll=[]):
     if n > 0:
         for i in range(1,7):
